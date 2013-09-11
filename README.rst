@@ -4,13 +4,5 @@ Installation
 ============
 
 1. Put the ``.tmux.conf`` file on you home.
-2. Clone ``https://github.com/creaktive/rainbarf.git`` somwhere in your machine.
-3. Enter the rainbarf repo folder, and run this to install it:
- 
-  ::
-
-    perl Build.PL
-    ./Build test
-    sudo ./Build install
 
 Done! Now just enter tmux :)
